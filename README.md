@@ -92,20 +92,37 @@ CyberSecuritySimulator/
 
 ## Practical Examples
 
+![image](https://github.com/user-attachments/assets/160e51e0-a630-4740-9a78-0d07c1225eec)
+
+
 ### 🔒 Password Strength Checker
 
 - **Input**: `P@ssw0rd123`
 - **Output**: `Password Strength: Strong`
 
+![image](https://github.com/user-attachments/assets/73bfbe9b-aedc-4d9b-b563-6f5e08a490c2)
+
+
 ### 🔐 Encryption/Decryption Utility
 
 - **Input**: `hello`
   - **Encrypted Output**: `khoor`
+
+![image](https://github.com/user-attachments/assets/d3f61dbb-24b8-4d4c-a723-142039f171a7)
+
   - **Decrypted Output**: `hello`
+
+
+![image](https://github.com/user-attachments/assets/3519525d-ae8c-4059-8a0d-45aca0a6ea21)
+
 
 ### 🔑 Password Generator
 
 - **Generated Output Example**: `aZ3!bX7@`
+
+
+![image](https://github.com/user-attachments/assets/4e627492-fb3d-44cc-a65e-8e565c2f33fd)
+
 
 ---
 
